@@ -1,0 +1,71 @@
+teams:
+  - name: k8s SRE
+    scheduling_timezone: Europe/Moscow
+    email: k8s@sre-course.ru
+    slack_channel: '#k8s-team'
+    users:
+      - name: o.ivanov
+        full_name: Oleg Ivanov
+        phone_number: +1 111-111-1111
+        email: o.ivanov@sre-course.ru
+        duty:
+          - date: 26/07/2023
+            role: primary
+          - date: 27/07/2023
+            role: secondary
+          - date: 28/07/2023
+            role: primary
+          - date: 29/07/2023
+            role: secondary
+          - date: 30/07/2023
+            role: primary
+      - name: d.petrov
+        full_name: Dmitriy Petrov
+        phone_number: +1 211-111-1111
+        email: d.petrov@sre-course.ru
+        duty:
+          - date: 26/07/2023
+            role: secondary
+          - date: 27/07/2023
+            role: primary
+          - date: 28/07/2023
+            role: secondary
+          - date: 29/07/2023
+            role: primary
+          - date: 30/07/2023
+            role: secondary
+  - name: DBA SRE
+    scheduling_timezone: Asia/Novosibirsk
+    email: dba@sre-course.ru
+    slack_channel: '#dba-team'
+    users:
+      - name: a.seledkov
+        full_name: Alexander Seledkov
+        phone_number: +1 311-111-1111
+        email: a.seledkov@sre-course.ru
+        duty:
+          - date: 26/07/2023
+            role: primary
+          - date: 27/07/2023
+            role: primary
+          - date: 28/07/2023
+            role: primary
+          - date: 29/07/2023
+            role: secondary
+          - date: 30/07/2023
+            role: primary
+      - name: d.hludeev
+        full_name: Dmitriy Hludeev
+        phone_number: +1 411-111-1111
+        email: user-4@sre-course.ru
+        duty:
+          - date: 26/07/2023
+            role: secondary
+          - date: 27/07/2023
+            role: secondary
+          - date: 28/07/2023
+            role: vacation
+          - date: 29/07/2023
+            role: primary
+          - date: 30/07/2023
+            role: secondary

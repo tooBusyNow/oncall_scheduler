@@ -1,0 +1,9 @@
+oncall_server: 
+  host: localhost
+  port: 8080
+
+oncall_login_creds:
+  username: root
+  password: 123
+
+oncall_api: http://localhost:8080/api/v0/
